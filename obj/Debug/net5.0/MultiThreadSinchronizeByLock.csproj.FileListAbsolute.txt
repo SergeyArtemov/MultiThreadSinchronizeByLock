@@ -1,0 +1,16 @@
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\bin\Debug\net5.0\MultiThreadSinchronizeByLock.exe
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\bin\Debug\net5.0\MultiThreadSinchronizeByLock.deps.json
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\bin\Debug\net5.0\MultiThreadSinchronizeByLock.runtimeconfig.json
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\bin\Debug\net5.0\MultiThreadSinchronizeByLock.runtimeconfig.dev.json
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\bin\Debug\net5.0\MultiThreadSinchronizeByLock.dll
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\bin\Debug\net5.0\ref\MultiThreadSinchronizeByLock.dll
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\bin\Debug\net5.0\MultiThreadSinchronizeByLock.pdb
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\obj\Debug\net5.0\MultiThreadSinchronizeByLock.csprojAssemblyReference.cache
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\obj\Debug\net5.0\MultiThreadSinchronizeByLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\obj\Debug\net5.0\MultiThreadSinchronizeByLock.AssemblyInfoInputs.cache
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\obj\Debug\net5.0\MultiThreadSinchronizeByLock.AssemblyInfo.cs
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\obj\Debug\net5.0\MultiThreadSinchronizeByLock.csproj.CoreCompileInputs.cache
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\obj\Debug\net5.0\MultiThreadSinchronizeByLock.dll
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\obj\Debug\net5.0\ref\MultiThreadSinchronizeByLock.dll
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\obj\Debug\net5.0\MultiThreadSinchronizeByLock.pdb
+C:\ProjectsCLR\MultiThreadSinchronizeByLock\obj\Debug\net5.0\MultiThreadSinchronizeByLock.genruntimeconfig.cache
